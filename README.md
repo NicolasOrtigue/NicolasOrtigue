@@ -2,7 +2,7 @@
 ![head-profile-github](https://github.com/NicolasOrtigue/NicolasOrtigue/assets/35613087/6da9083f-db1e-4aea-a884-9121a72f9e0b)
 
 
-<h1 align="center"> <b>Bonjour,&nbsp; je suis Nicolas </b><img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="25"></h1>
+<h1 align="center"> <b>Bonjour,&nbsp; je suis Nicolas Ortigur</b><img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=cyan&size=25&center=true&vCenter=true&width=600&height=60&lines=Chef+de+projet++;Web+Designer;UI/UX+Design;Full-Stack+JS"></a>
