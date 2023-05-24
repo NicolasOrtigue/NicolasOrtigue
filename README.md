@@ -1,6 +1,4 @@
-
-![head-profile-github](https://github.com/NicolasOrtigue/NicolasOrtigue/assets/35613087/6da9083f-db1e-4aea-a884-9121a72f9e0b)
-
+![head-profile-github](https://github.com/NicolasOrtigue/NicolasOrtigue/assets/35613087/7c472e56-354d-4522-9b5a-a07d56a23631)
 
 <h1 align="center"> <b>Bonjour,&nbsp; je suis Nicolas Ortigue</b>&nbsp; <img src="https://github.com/NicolasOrtigue/NicolasOrtigue/assets/35613087/d5c62aa8-946a-4ef8-8864-ed4f476d7b36" width="45"></h1>
 
