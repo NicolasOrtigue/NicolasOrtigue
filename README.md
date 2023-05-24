@@ -8,7 +8,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=cyan&size=25&center=true&vCenter=true&width=600&height=60&lines=Chef+de+projet++;Web+Designer;UI/UX+Design;Full-Stack+JS"></a>
 </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="19"> **À propos :**
+## <img src="https://github.com/NicolasOrtigue/NicolasOrtigue/assets/35613087/a3b56603-3cba-4e68-aa6a-f8731af1f918" width ="19"> **À propos :**
+
 
 <br>
 <br>
@@ -26,7 +27,7 @@
 <br>
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="19"> <b>Compétences :</b>
+## <img src="https://github.com/NicolasOrtigue/NicolasOrtigue/assets/35613087/a3b56603-3cba-4e68-aa6a-f8731af1f918" width ="19"> <b>Compétences :</b>
 
 <br>
 
@@ -101,7 +102,7 @@
 <br>
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="19"> <b>Contact :</b>
+## <img src="https://github.com/NicolasOrtigue/NicolasOrtigue/assets/35613087/a3b56603-3cba-4e68-aa6a-f8731af1f918" width ="19"> <b>Contact :</b>
 
 <br>
 
