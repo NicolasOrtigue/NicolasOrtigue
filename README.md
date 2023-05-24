@@ -1,4 +1,7 @@
 
+![head-profile-github](https://github.com/NicolasOrtigue/NicolasOrtigue/assets/35613087/6da9083f-db1e-4aea-a884-9121a72f9e0b)
+
+
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <b>Bonjour,&nbsp; je suis Nicolas </b></h1>
 
 <p align="center">
