@@ -57,6 +57,7 @@
   ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
   ![NextJS](https://img.shields.io/badge/next_js-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
   ![Recoil](https://img.shields.io/badge/recoil-%233578e5.svg?style=for-the-badge&logo=recoiljs&logoColor=white)
+  ![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label=)
 
 <br>
 
