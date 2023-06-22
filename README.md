@@ -16,7 +16,7 @@
 
 - Visitez mon portfolio en suivent ce [lien](https://onweb-portfolio.onrender.com/)
 
-- Je suis actuellement à la recherche d'une nouvelle opportunité d'emploi : [mon cv](https://onweb-portfolio.onrender.com/nicolas-ortigue.pdf)
+- Je suis actuellement à la recherche d'une nouvelle opportunité d'emploi : [mon cv](https://nicolas-ortigue-portfolio.netlify.app/nicolas-ortigue.pdf)
 
 <br>
 
