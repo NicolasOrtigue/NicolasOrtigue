@@ -14,7 +14,7 @@
 
 - Chef de projet / Web Designer avec de l'expérience dans le développement Full-Stack JavaScript en utilisant React, Node.js et d'autres frameworks.
 
-- Visitez mon portfolio en suivent ce [lien]([https://onweb-portfolio.onrender.com/](https://nicolas-ortigue-portfolio.netlify.app/)
+- Visitez mon portfolio en suivent ce [lien](https://nicolas-ortigue-portfolio.netlify.app/#experiences)
 
 - Je suis actuellement à la recherche d'une nouvelle opportunité d'emploi : [mon cv](https://nicolas-ortigue-portfolio.netlify.app/#experiences)
 <br>
